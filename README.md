@@ -11,7 +11,7 @@ The purpose of this webpage is to provide a brief introduction and direct visito
 ## Usage
 
 To visit my portfolio page:
-1. Simply click on the link provided on [this homepage]("https://purvaansh04.github.io/Purvaansh-Sharma/").
+1. Simply click on the link provided on [this homepage](https://purvaansh04.github.io/Purvaansh-Sharma/).
 2. You will be redirected to the portfolio page where you can find detailed information about my skills, accomplishments, and projects.
 
 ## Technologies Used
